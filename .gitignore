@@ -1,5 +1,5 @@
 # Dataset — too large for GitHub
-*.csv
+
 *.tsv
 
 # Python
